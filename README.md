@@ -31,5 +31,6 @@ realm.write(() => {
 
 ## Bonus 
 
-Si vous voulez, un outils vous permet de visualiser les données, vous pouvez utiliser [realm studio](https://www.mongodb.com/docs/realm-legacy/products/realm-studio.html#download-studio) ![image](https://github.com/Antoineg3802/CRUD-NO-SQL/assets/72556223/12edabb9-2a7c-46a9-a02d-42708405cda1)
+Si vous voulez, un outils vous permet de visualiser les données, vous pouvez utiliser [realm studio](https://www.mongodb.com/docs/realm-legacy/products/realm-studio.html#download-studio)  
+![image](https://github.com/Antoineg3802/CRUD-NO-SQL/assets/72556223/12edabb9-2a7c-46a9-a02d-42708405cda1)
 
