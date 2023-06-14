@@ -8,7 +8,7 @@ Vous pouvez installer node sur [le lien suivant](https://nodejs.org/en) afin de 
 
 ## Initialisation du projet
 
-Une fois le projet créé rendez-vous dans le dossier du projet et effctuer les commande suivantes 
+Une fois le projet cloné rendez-vous dans le dossier du projet et effctuez les commande suivantes 
 - `npm i` : afin d'__installer tous les packages__ necessaires au code.
 - `npm run init` : qui lancera un script qui vous créera la BDD et la rempli à partir du fichier CSV. L'execution de ce script vous permettra 
 - `node index.js` : qui executera le code (veillez à __enlever les commentaires de la fonction que vous souhaitez utiliser__ ainsi que __modifier les paramètres de la fonction__)
